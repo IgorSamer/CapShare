@@ -1,0 +1,7 @@
+{
+  "name": "CapShare",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
